@@ -6,7 +6,7 @@ The analysis focuses on understanding confirmed cases, recoveries, deaths, and v
 
 > 🏢 **Internship Task:** Data Science Internship – HexSoftwares
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
 
 ---
 
