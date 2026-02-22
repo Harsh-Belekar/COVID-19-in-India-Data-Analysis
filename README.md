@@ -6,7 +6,7 @@ The analysis focuses on understanding confirmed cases, recoveries, deaths, and v
 
 > 🏢 **Internship Task:** Data Science Internship – HexSoftwares
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-red?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightgreen) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![EDA](https://img.shields.io/badge/Type-Exploratory%20Data%20Analysis-green) ![Visualization](https://img.shields.io/badge/Charts-Multiple-orange) ![Dataset](https://img.shields.io/badge/Data-COVID19%20India-red) ![Internship](https://img.shields.io/badge/Internship-HexSoftwares-blue)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-red?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightgreen) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![EDA](https://img.shields.io/badge/Type-Exploratory%20Data%20Analysis-green) ![Visualization](https://img.shields.io/badge/Charts-Multiple-orange) ![Dataset](https://img.shields.io/badge/Data-COVID19%20India-red) ![Internship](https://img.shields.io/badge/Internship-HexSoftwares-blue) ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
