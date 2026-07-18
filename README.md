@@ -31,40 +31,48 @@ The analysis focuses on understanding confirmed cases, recoveries, deaths, and v
 
 ## 📁 Project Folder Structure
 ```
-├── COVID-19 in India – Data Analysis Report.pdf
 ├── README.md
 ├── requirements.txt
-├── Raw_data/
-│   ├── covid_19_india.csv
-│   └── covid_vaccine_statewise.csv
+│
+├── Data/
+│    ├── Raw_data/
+│    │   ├── covid_19_india.csv
+│    │   └── covid_vaccine_statewise.csv
+│    │
+│    └── Clean_data/
+│        ├── covid_19_india_cleaned.csv
+│        └── covid_vaccine_statewise_cleaned.csv
+│
+├── Docs/
+│   └── COVID-19 in India – Data Analysis Report.pdf
+│
 ├── notebooks/
 │   ├── 01_Data_Cleaning.ipynb
 │   └── 02_Data_Analysis.ipynb
-├── images/
-│   ├── 01_COVID-19_Case_Distribution_in_India.png
-│   ├── 02_Daily_Case_Distribution.png
-│   ├── 03_Daily_Cured_Case_Distribution.png
-│   ├── 04_Daily_Deaths_Case_Trend.png
-│   ├── 05_Year-wise_COVID-19_Cases_in_India.png
-│   ├── 06_Month-wise_COVID-19_Seasonality_in_India.png
-│   ├── 07_Month-wise_COVID-19_Deaths_in_India.png
-│   ├── 08_Month-wise_COVID-19_Cured_in_India.png
-│   ├── 09_Top_10_States_by_Confirmed_Cases.png
-│   ├── 10_Top_10_States_by_Cured_Cases.png
-│   ├── 11_Top_10_States_by_Deaths_Cases.png
-│   ├── 12_Top_10_States_by_Lowest_Confirmed_Cases.png
-│   ├── 13_Day-wise_Confirmed_Cases_by_year_&_month.png
-│   ├── 14_Vaccination_Trend_in_India.png
-│   ├── 15_Top_10_States_by_Vaccination.png
-│   ├── 16_Month-wise_Vaccination_Trend.png
-│   ├── 17_Gender-wise_COVID-19_Vaccination_in_India.png
-│   ├── 18_Age-Group_wise_COVID-19_Vaccination_in_India.png
-│   ├── 19_COVID-19_Vaccine_Doses_Distribution_in_India.png
-│   ├── 20_Doses-wise_COVID-19_Vaccination_in_India.png
-│   └── 21_Day-wise_Vaccination_by_month.png
-└── Clean_data/
-    ├── covid_19_india_cleaned.csv
-    └── covid_vaccine_statewise_cleaned.csv
+│
+└── images/
+    ├── 01_COVID-19_Case_Distribution_in_India.png
+    ├── 02_Daily_Case_Distribution.png
+    ├── 03_Daily_Cured_Case_Distribution.png
+    ├── 04_Daily_Deaths_Case_Trend.png
+    ├── 05_Year-wise_COVID-19_Cases_in_India.png
+    ├── 06_Month-wise_COVID-19_Seasonality_in_India.png
+    ├── 07_Month-wise_COVID-19_Deaths_in_India.png
+    ├── 08_Month-wise_COVID-19_Cured_in_India.png
+    ├── 09_Top_10_States_by_Confirmed_Cases.png
+    ├── 10_Top_10_States_by_Cured_Cases.png
+    ├── 11_Top_10_States_by_Deaths_Cases.png
+    ├── 12_Top_10_States_by_Lowest_Confirmed_Cases.png
+    ├── 13_Day-wise_Confirmed_Cases_by_year_&_month.png
+    ├── 14_Vaccination_Trend_in_India.png
+    ├── 15_Top_10_States_by_Vaccination.png
+    ├── 16_Month-wise_Vaccination_Trend.png
+    ├── 17_Gender-wise_COVID-19_Vaccination_in_India.png
+    ├── 18_Age-Group_wise_COVID-19_Vaccination_in_India.png
+    ├── 19_COVID-19_Vaccine_Doses_Distribution_in_India.png
+    ├── 20_Doses-wise_COVID-19_Vaccination_in_India.png
+    └── 21_Day-wise_Vaccination_by_month.png
+
 ```
 
 ---
